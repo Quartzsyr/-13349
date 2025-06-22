@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=icon.ico serial_assistant.py
